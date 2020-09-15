@@ -18,9 +18,9 @@
 - 📫 How to reach me: [Mail](chintanmaniyar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chintan-maniyar-617131112/)
 
 
-### My Github Stats:
+<!--### My Github Stats:
 [![Chintan's github stats](https://github-readme-stats.vercel.app/api?username=Chintan2108&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+<br />-->
 
 ---
 
