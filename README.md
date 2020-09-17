@@ -11,9 +11,9 @@
 
 ## I'm a weird blend of Remote Sensing, Deep Learning, NLP enthusiast with a touch of love for writing and music!
 
-- 🔭 I’m currently working on: Building Extraction from High Resolution Satellite Imagery using Object oriented CNNs!
-- 🌱 I’m currently learning: Deep learning, Computer Vision, NLP and Geography.
-- 👯 I’m looking to collaborate with AI/ML/DL enthusiasts in the Remote Sensing Community.
+- 🔭 Currently working on: Building Extraction from High Resolution Satellite Imagery using Object oriented CNNs!
+- 🌱 Currently learning: Deep learning, Computer Vision, NLP and Geography.
+- 👯 Looking to collaborate with AI/ML/DL enthusiasts in the Remote Sensing Community.
 - ⚡ My Interests: Satellite Image Processing, Machine Learning, Deep Learning, NLP, Google Earth Engine, Environment Conservation, Astronomy ✨
 - 📫 How to reach me: [Mail](chintanmaniyar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chintan-maniyar-617131112/)
 
