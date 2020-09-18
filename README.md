@@ -9,7 +9,7 @@
 <br/>
 
 
-## I'm a weird blend of Remote Sensing, Deep Learning, NLP enthusiast with a touch of love for writing and music!
+## I'm a riveting blend of Remote Sensing, Deep Learning, NLP enthusiast with a touch of love for writing and music!
 
 - 🔭 Currently working on: Building Extraction from High Resolution Satellite Imagery using Object oriented CNNs!
 - 🌱 Currently learning: Deep learning, Computer Vision, NLP and Geography.
