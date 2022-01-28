@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Chintan Maniyar!
+### Hi there 👋 I'm Chintan B. Maniyar!
 
 
 
 <!--## I'm a riveting blend of Remote Sensing, Deep Learning, NLP enthusiast with a touch of love for writing and music!-->
 
-- 🔭 Currently working on: Building Extraction from High Resolution Satellite Imagery using Object oriented CNNs!
+- 🔭 Currently working on: Global Water Quality Analysis using Remote Sensing (CyanoHABs, Salinity, TSS Modeling)
 - 🌱 Currently learning: Deep learning, Computer Vision, NLP and Geography.
-- 👯 Looking to collaborate with AI/ML/DL enthusiasts in the Remote Sensing Community.
-- ⚡ My Interests: Satellite Image Processing, Machine Learning, Deep Learning, NLP, Google Earth Engine, Environment Conservation, Astronomy ✨
+- 👯 Looking to collaborate with AI/ML/DL and/or Water Quality enthusiasts in the Remote Sensing Community.
+- ⚡ My Interests: Biophysical Modeling, Satellite Image Processing, Machine/Deep Learning, NLP, Google Earth Engine, Environment Conservation, Astronomy ✨
 - 📫 How to reach me: [Mail](chintanmaniyar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chintan-maniyar-617131112/)
 
 ---
