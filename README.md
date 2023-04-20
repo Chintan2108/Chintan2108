@@ -8,7 +8,7 @@
 - 🌱 Currently learning: Deep learning, Computer Vision, NLP and Geography.
 - 👯 Looking to collaborate with AI/ML/DL and/or Water Quality enthusiasts in the Remote Sensing Community.
 - ⚡ My Interests: Biophysical Modeling, Satellite Image Processing, Machine/Deep Learning, NLP, Google Earth Engine, Environment Conservation, Astronomy ✨
-- 📫 How to reach me: [Mail](chintanmaniyar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chintan-maniyar-617131112/)
+- 📫 How to reach me: [Mail](chintanmaniyar@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chintanmaniyar)
 
 ---
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://chintan2108.github.io/)
